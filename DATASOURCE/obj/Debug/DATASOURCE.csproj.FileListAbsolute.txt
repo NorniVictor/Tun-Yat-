@@ -1,0 +1,6 @@
+D:\Programming\C#_ByVisualStudio\TunYat\DATASOURCE\bin\Debug\DATASOURCE.dll.config
+D:\Programming\C#_ByVisualStudio\TunYat\DATASOURCE\bin\Debug\DATASOURCE.dll
+D:\Programming\C#_ByVisualStudio\TunYat\DATASOURCE\bin\Debug\DATASOURCE.pdb
+D:\Programming\C#_ByVisualStudio\TunYat\DATASOURCE\obj\Debug\DATASOURCE.csprojResolveAssemblyReference.cache
+D:\Programming\C#_ByVisualStudio\TunYat\DATASOURCE\obj\Debug\DATASOURCE.dll
+D:\Programming\C#_ByVisualStudio\TunYat\DATASOURCE\obj\Debug\DATASOURCE.pdb

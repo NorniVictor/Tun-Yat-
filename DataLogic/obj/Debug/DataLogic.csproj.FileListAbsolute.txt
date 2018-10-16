@@ -1,0 +1,7 @@
+D:\Programming\C#_ByVisualStudio\TunYat\DataLogic\bin\Debug\DataLogic.dll
+D:\Programming\C#_ByVisualStudio\TunYat\DataLogic\bin\Debug\DataLogic.pdb
+D:\Programming\C#_ByVisualStudio\TunYat\DataLogic\bin\Debug\DATASOURCE.dll
+D:\Programming\C#_ByVisualStudio\TunYat\DataLogic\bin\Debug\DATASOURCE.pdb
+D:\Programming\C#_ByVisualStudio\TunYat\DataLogic\obj\Debug\DataLogic.csprojResolveAssemblyReference.cache
+D:\Programming\C#_ByVisualStudio\TunYat\DataLogic\obj\Debug\DataLogic.dll
+D:\Programming\C#_ByVisualStudio\TunYat\DataLogic\obj\Debug\DataLogic.pdb
